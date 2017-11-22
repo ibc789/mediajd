@@ -1,5 +1,5 @@
 <?php
-namespace Ibc\MediaJd;
+namespace Ibc789\MediaJd;
 class WareWriteMergeWareFeaturesRequest
 {
 	private $apiParas = array();

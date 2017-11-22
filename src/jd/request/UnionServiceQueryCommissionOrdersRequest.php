@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibc\MediaJd;
+namespace Ibc789\MediaJd;
 class UnionServiceQueryCommissionOrdersRequest
 {
 	private $apiParas = array();

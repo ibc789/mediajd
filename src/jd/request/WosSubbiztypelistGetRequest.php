@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibc\MediaJd;
+namespace Ibc789\MediaJd;
 class WosSubbiztypelistGetRequest
 {
 	private $apiParas = array();

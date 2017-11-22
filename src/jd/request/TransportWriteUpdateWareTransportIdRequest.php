@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc789\MediaJd;
 class TransportWriteUpdateWareTransportIdRequest
 {
 	private $apiParas = array();

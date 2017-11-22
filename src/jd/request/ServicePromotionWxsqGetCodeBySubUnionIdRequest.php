@@ -1,4 +1,5 @@
 <?php
+namespace Ibc789\MediaJd;
 class ServicePromotionWxsqGetCodeBySubUnionIdRequest
 {
 	private $apiParas = array();

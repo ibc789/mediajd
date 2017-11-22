@@ -1,4 +1,6 @@
 <?php
+
+namespace Ibc789\MediaJd;
 class ServicePromotionQueryDesignboomGoodsRequest
 {
 	private $apiParas = array();
